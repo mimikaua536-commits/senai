@@ -1,3 +1,7 @@
 teste readme
 
-git status
+git status	
+
+	
+lembrei do comando git status
+
