@@ -1,1 +1,2 @@
-teste readme
+teste readme			
+lembrei do comando git status
